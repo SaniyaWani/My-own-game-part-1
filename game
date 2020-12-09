@@ -1,0 +1,11 @@
+The title of this game is 'monkey runner'.
+
+playing characters = monkey it can move left and right and can jump
+non-playing characters = fruit ,tree
+
+The story is there is a monkey which is very much hungry. 
+And we have to help monkey to rich to tree and remove fruit from it using constrain.
+when monkey will get fruit game will be over.
+
+To make the game engaging I can add more levels with diffrent animal and fruit
+so that kids playing this game will also learn names of diffrent animal and fruit 
